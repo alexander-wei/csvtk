@@ -1,2 +1,2 @@
-# csvtk
+# CSVTK
 Compressive Spectrogram Visualization Toolkit
