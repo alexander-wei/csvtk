@@ -6,7 +6,7 @@ Visualize contractive dynamic range compression, noise cleaning, and clipping of
 
 Currently performs 80-dimensional mel reduction of entire .wav files inside a user-specified root directory, and accepts only 16kHz .wav files.
 
-    usage: csvtk [-h] [--fps REFRESH] [-u LIMITS_U] [-v LIMITS_V] [-s LIMITS_S] [-t LIMITS_T] [rootdir]
+    usage: python3 csvtk.py [-h] [--fps REFRESH] [-u LIMITS_U] [-v LIMITS_V] [-s LIMITS_S] [-t LIMITS_T] [rootdir]
 
     positional arguments:
       rootdir        Recursively load the sound files inside this directory
