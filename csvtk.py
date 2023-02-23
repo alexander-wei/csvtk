@@ -383,6 +383,5 @@ All values between zero and eps are muted following application of the function 
         help="Recursively load the sound files inside this directory"
     )
     args = parser.parse_args()
-    args.rootdir=['/home/jovyan']
 
     sys.exit(main(args))
