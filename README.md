@@ -35,7 +35,7 @@ Dependencies:
 
             numpy, scipy, pyfilterbank, matplotlib, sounddevice, tkfilebrowser
 
-#### Example applications
+#### Applications
 
 Cleaning of down-projected mel spectrogram
 ![cleaned_scale](https://user-images.githubusercontent.com/82844428/220813946-4fad30cf-f8eb-4d36-8329-7453e28ccb25.jpg)
