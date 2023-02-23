@@ -31,6 +31,10 @@ Currently performs 80-dimensional mel reduction of entire .wav files inside a us
                      All values between zero and eps are muted following application of the function f.
 
 
+Dependencies:
+
+            numpy, scipy, pyfilterbank, matplotlib, sounddevice, tkfilebrowser
+
 #### Example applications
 
 Cleaning of down-projected mel spectrogram
